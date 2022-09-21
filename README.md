@@ -1,8 +1,9 @@
-[![MasterHead](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/690128/0630_Express.js_Promise-based_Routes_and_Error_Handling_Zara_Newsletter___blog-c215207daa949f23bcbf1a6a374882c5-7e069fc6631e4ae9148c819aa16e1932.png)](https://befika.io)
+[![MasterHead](https://blog.logrocket.com/wp-content/uploads/2022/05/testing-go-restful-backend-postman-tool.gif)](https://befika.io)
+
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
 <h3 align="center">Backend Developer</h3>
 
-<image align="right" alt="Coding" width="400"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qhsjgoak5w1oahtbcrwmfd9vsxxlufn6bapwxu48&rid=giphy.gif&ct=g">
+<image align="right" alt="Coding" width="400"  src="https://c.tenor.com/Xt4NgJt31gYAAAAC/golang.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=befika&label=Profile%20views&color=0e75b6&style=flat" alt="befika" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=befika" alt="befika" /></a> </p>
