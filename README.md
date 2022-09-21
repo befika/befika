@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
 <h3 align="center">Backend Developer</h3>
+
+
+<h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
+<h3 align="center">Backend Developer</h3>
+
 <image align="right" alt="Coding" width="400"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qhsjgoak5w1oahtbcrwmfd9vsxxlufn6bapwxu48&rid=giphy.gif&ct=g">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=befika&label=Profile%20views&color=0e75b6&style=flat" alt="befika" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=befika" alt="befika" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/befika772" target="blank"><img src="https://img.shields.io/twitter/follow/befika772?logo=twitter&style=for-the-badge" alt="befika772" /></a> </p>
 
