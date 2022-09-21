@@ -1,4 +1,4 @@
-[![MasterHead](<image width="100%"  src="https://blog.logrocket.com/wp-content/uploads/2022/05/testing-go-restful-backend-postman-tool.gif">)](https://befika.io)
+<image width="100%"  src="https://blog.logrocket.com/wp-content/uploads/2022/05/testing-go-restful-backend-postman-tool.gif">)
 
 
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
