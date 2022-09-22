@@ -1,3 +1,5 @@
+![MasterHead](https://images.yourstory.com/cs/wordpress/2018/02/API.gif)
+
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
 <h3 align="center">Backend Developer</h3>
 
@@ -9,8 +11,6 @@
 <p align="left"> <a href="https://twitter.com/befika772" target="blank"><img src="https://img.shields.io/twitter/follow/befika772?logo=twitter&style=for-the-badge" alt="befika772" /></a> </p>
 
 - 💬 Ask me about **Golang, Backend Development**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vfMfX-VJ_RzVPv1cf2ItgBzFHzqfnd5X/view?usp=sharing](https://drive.google.com/file/d/1vfMfX-VJ_RzVPv1cf2ItgBzFHzqfnd5X/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
