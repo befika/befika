@@ -1,4 +1,5 @@
-![MasterHead](https://images.yourstory.com/cs/wordpress/2018/02/API.gif)
+![MasterHead]<img src="(https://images.yourstory.com/cs/wordpress/2018/02/API.gif)" width = "100%"/>
+
 
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
 <h3 align="center">Backend Developer</h3>
