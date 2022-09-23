@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/gist/ceidas/3f98ed8854f3145618996e52616ab398/raw/7d0460d2657a26aba9003dea85ea3bce99c59f36/gears.gif)
+![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/9708020/media/839ef4840886e3c7e9af9fa9b4801617.png)
 
 
 <h1 align="center">Hi 👋, I'm Befikadu Shumet</h1>
